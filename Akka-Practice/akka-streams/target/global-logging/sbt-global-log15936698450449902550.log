@@ -1,0 +1,11 @@
+[debug] > Exec(curl http://localhost:8080/hello, None, None)
+[error] Expected ID character
+[error] Not a valid command: curl
+[error] Expected project ID
+[error] Expected configuration
+[error] Expected ':'
+[error] Expected key
+[error] Not a valid key: curl (similar: clean, turbo)
+[error] curl http://localhost:8080/hello
+[error]     ^
+[debug] > Exec(idea-shell, None, None)
